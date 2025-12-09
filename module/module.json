@@ -1,0 +1,8 @@
+{
+  "name": "foundry-scribe",
+  "title": "Foundry Scribe",
+  "description": "Local AI archivist.",
+  "version": "0.0.1",
+  "scripts": ["scribe.js"],
+  "compatibleCoreVersion": "12"
+}
